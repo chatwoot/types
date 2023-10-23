@@ -1,0 +1,1 @@
+export type Channel = 'Channel::Whatsapp' | 'Channel::WebWidget' | 'Channel::TwitterProfile' | 'Channel::TwilioSms' | 'Channel::Telegram' | 'Channel::Sms' | 'Channel::Line' | 'Channel::FacebookPage' | 'Channel::Email' | 'Channel::Api'

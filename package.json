@@ -1,0 +1,22 @@
+{
+  "name": "@chatwoot/types",
+  "version": "0.0.1",
+  "description": "Objects used in Chatwoot",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^39.1.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "rollup": "^4.1.4",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "*"
+  },
+  "dependencies": {}
+}
